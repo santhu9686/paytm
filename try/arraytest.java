@@ -6,7 +6,7 @@ public class arraytest {
 	static int a=90;
 	public static void main(String[] args) {
 		
-		arraytest a2= new arraytest();
+		arraytest a2= new arraytest()    ;
 		
 		int f[][]= {{1,2,3,4,5},{6,7,8,9}};
 		for (int row =0;row<f.length;row++)
